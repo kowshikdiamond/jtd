@@ -8,5 +8,5 @@ gem "just-the-docs", "0.8.2" # pinned to the current release
 
 group :jekyll_plugins do
     gem "jekyll-admin"
-    gem "rack", "~> 2.2"
+    gem "rack", "~> 3.1"
 end
